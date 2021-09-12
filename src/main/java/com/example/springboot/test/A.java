@@ -10,8 +10,8 @@ import java.util.Map;
 
 @Component
 public class A {
-//    @Autowired
-//    public Mappertest mappertest;
+    @Autowired
+    public Mappertest mappertest;
     public void aa(){
       //  List<Map<Object, String>> ss = mappertest.ss();
         System.out.println("ss");
